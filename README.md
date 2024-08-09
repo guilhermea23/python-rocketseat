@@ -15,7 +15,7 @@
 
 `instance/` - pasta onde ficará o banco de dados
 
-    `instance/ecommerce.db` - banco de dados da API
+`instance/ecommerce.db` - banco de dados da API
 
 `.gitignore` - pastas, arquivos, extensões que o Git deve ignorar
 
